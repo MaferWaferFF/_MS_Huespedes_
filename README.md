@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Microservicio de Huéspedes (`huespedes-service`)
 
 Este microservicio forma parte del **Sistema de Alquileres de Hotel mediante Microservicios** de la Universidad Nacional de Ucayali (2026), encargado de la administración autónoma del catálogo y ciclo de vida de los datos de huéspedes.
@@ -112,3 +113,7 @@ CREATE NONCLUSTERED INDEX IX_huespedes_estado_logico ON huespedes(estado_logico)
 Al iniciar el microservicio en el puerto `8082`, la documentación Swagger se encuentra disponible en:
 - **Swagger UI:** `http://localhost:8082/swagger-ui.html`
 - **OpenAPI JSON:** `http://localhost:8082/v3/api-docs`
+=======
+# _MS_Huespedes_
+Microservicio huéspedes para sistema de gestión de alquileres
+>>>>>>> 46e22e23015e014af0bfe9afc780ae33a27d0f04
